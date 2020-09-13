@@ -1058,9 +1058,7 @@ a {
   }
 }
 .cid-sakOI8sLJh {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background7.jpeg");
+  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-14.29.54-2000x1201.png");
 }
 .cid-sakOI8sLJh .mbr-section-title {
   text-align: left;
@@ -1069,6 +1067,20 @@ a {
 .cid-sakOI8sLJh .mbr-text,
 .cid-sakOI8sLJh .mbr-section-btn {
   text-align: left;
+}
+.cid-sauKo2ftoe {
+  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-13.40.49-1742x832.png");
+}
+.cid-sauKo2ftoe .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-sauKo2ftoe .mbr-text,
+.cid-sauKo2ftoe .mbr-section-btn {
+  text-align: center;
+}
+.cid-sauYNiiu5f {
+  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-14.34.41-2000x1209.png");
 }
 .cid-sapfZTsI1W {
   padding-top: 6rem;
@@ -2417,9 +2429,9 @@ a {
   }
 }
 .cid-sal0Hc9m68 {
-  padding-top: 10rem;
+  padding-top: 5rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/mbr-1-1920x1920.png");
+  background-image: url("../../../assets/images/pagina-web-portfolio-maquilladora-estilista-crema-y-rosa-4-1350x650.png");
 }
 .cid-sal0Hc9m68 .image-wrap img {
   width: 100%;
@@ -2428,11 +2440,11 @@ a {
   .cid-sal0Hc9m68 .image-wrap img {
     display: block;
     margin: auto;
-    width: 80%;
+    width: 100%;
   }
 }
 .cid-sal0Hc9m68 .mbr-section-title {
-  color: #ffffff;
+  color: #2299aa;
 }
 .cid-sal0Hc9m68 .mbr-text,
 .cid-sal0Hc9m68 .mbr-section-btn {
@@ -2872,6 +2884,10 @@ a {
 }
 .cid-salL85qpdF .user_text {
   text-align: center;
+  color: #000000;
+}
+.cid-salL85qpdF .user_name {
+  color: #000000;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
@@ -3576,6 +3592,8 @@ a {
   }
 }
 .cid-sanWJ3IEWW {
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/pagina-web-portfolio-maquilladora-estilista-crema-y-rosa-4-1350x650.png");
 }
 .cid-sanWJ3IEWW .icons-media-container {
@@ -3620,7 +3638,7 @@ a {
   color: #ffffff;
 }
 .cid-sanWJ3IEWW H1 {
-  color: #1ca49f;
+  color: #2299aa;
   text-align: center;
 }
 .cid-sanWJ3IEWW .mbr-text,
