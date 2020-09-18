@@ -1122,7 +1122,7 @@ a {
 .cid-sav9OFJmyb {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
+  background-color: #ffffff;
 }
 .cid-sapkeTdMgU {
   padding-top: 3rem;
@@ -3819,7 +3819,7 @@ a {
 }
 .cid-saDA1EXQHm {
   padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
 }
 @media (max-width: 991px) {
@@ -3831,6 +3831,22 @@ a {
   flex-direction: row-reverse;
 }
 .cid-saDA1EXQHm img {
+  width: 100%;
+}
+.cid-saWGA5phz8 {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
+}
+@media (max-width: 991px) {
+  .cid-saWGA5phz8 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-saWGA5phz8 .row {
+  flex-direction: row-reverse;
+}
+.cid-saWGA5phz8 img {
   width: 100%;
 }
 .cid-saDIKHFrI0 {
@@ -5053,7 +5069,7 @@ a {
 .cid-sav9OFJmyb {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
+  background-color: #ffffff;
 }
 .cid-saDBrTqLtt {
   padding-top: 4rem;
@@ -5530,7 +5546,7 @@ a {
 .cid-sav9OFJmyb {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
+  background-color: #ffffff;
 }
 .cid-saFlgp5VX2 {
   padding-top: 10rem;
@@ -5885,7 +5901,7 @@ a {
 .cid-sav9OFJmyb {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
+  background-color: #ffffff;
 }
 .cid-saIDtCdhcw {
   background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
@@ -6245,7 +6261,7 @@ a {
 .cid-sav9OFJmyb {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
+  background-color: #ffffff;
 }
 .cid-saIG9lVT5j {
   padding-top: 5rem;
