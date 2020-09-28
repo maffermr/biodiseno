@@ -54,7 +54,7 @@
     "versionPublish": "5.1.4",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
