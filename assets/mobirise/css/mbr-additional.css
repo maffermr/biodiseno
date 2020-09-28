@@ -3862,22 +3862,6 @@ a {
 .cid-saDzSK3Ike .mbr-social-likes {
   color: #40b0bf;
 }
-.cid-sb0YoU3Xob {
-  padding-top: 4rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
-}
-@media (max-width: 991px) {
-  .cid-sb0YoU3Xob .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sb0YoU3Xob .row {
-  flex-direction: row-reverse;
-}
-.cid-sb0YoU3Xob img {
-  width: 100%;
-}
 .cid-saDA1EXQHm {
   padding-top: 4rem;
   padding-bottom: 0rem;
@@ -3892,6 +3876,22 @@ a {
   flex-direction: row-reverse;
 }
 .cid-saDA1EXQHm img {
+  width: 100%;
+}
+.cid-sb0YoU3Xob {
+  padding-top: 4rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
+}
+@media (max-width: 991px) {
+  .cid-sb0YoU3Xob .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sb0YoU3Xob .row {
+  flex-direction: row-reverse;
+}
+.cid-sb0YoU3Xob img {
   width: 100%;
 }
 .cid-saWGA5phz8 {
