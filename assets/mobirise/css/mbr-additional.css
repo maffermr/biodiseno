@@ -9397,6 +9397,22 @@ a {
 .cid-scKCOihgNb img {
   width: 100%;
 }
+.cid-scREY8ua9M {
+  padding-top: 2rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
+}
+@media (max-width: 991px) {
+  .cid-scREY8ua9M .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-scREY8ua9M .row {
+  flex-direction: row-reverse;
+}
+.cid-scREY8ua9M img {
+  width: 100%;
+}
 .cid-scEsnIlb3i {
   padding-top: 4rem;
   padding-bottom: 0rem;
