@@ -10930,6 +10930,95 @@ a {
 .cid-scHwheA73z .mbr-social-likes {
   color: #000000;
 }
+.cid-sdhgTgUx4f {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sdhgTgUx4f .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-sdhgTgUx4f .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-sdhgTgUx4f .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-sdhgTgUx4f .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-sdhgTgUx4f .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-sdhgTgUx4f .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-sdhgTgUx4f .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-sdhgTgUx4f .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-sdhgTgUx4f .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-sdhgTgUx4f .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-sdhgTgUx4f .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-sdhgTgUx4f .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-sdhgTgUx4f .btn-social {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
+}
+.cid-sdhgTgUx4f .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
+}
+.cid-sdhgTgUx4f [class^="socicon-"]:before,
+.cid-sdhgTgUx4f [class*=" socicon-"]:before {
+  line-height: 55px;
+}
+.cid-sdhgTgUx4f .mbr-section-title,
+.cid-sdhgTgUx4f .mbr-social-likes {
+  color: #40b0bf;
+  text-align: center;
+}
+.cid-sdhguhPX9X {
+  padding-top: 1rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sdhguhPX9X .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sdhguhPX9X .row {
+  flex-direction: row-reverse;
+}
+.cid-sdhguhPX9X img {
+  width: 100%;
+}
 .cid-scHwHL8uWa {
   padding-top: 3rem;
   padding-bottom: 0rem;
