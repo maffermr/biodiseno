@@ -12880,12 +12880,12 @@ a {
     left: -1rem;
   }
 }
-.cid-sfgiFWBET5 {
+.cid-sflCPe1KPm {
   padding-top: 5rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.43.16-1512x862.png");
 }
-.cid-sfgiFWBET5 .mbr-section-title {
+.cid-sflCPe1KPm .mbr-section-title {
   color: #353535;
 }
 .cid-sfiEfonctI {
@@ -12903,6 +12903,35 @@ a {
 }
 .cid-sfiEfonctI img {
   width: 100%;
+}
+.cid-sflFEPdimr {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #d9f1f4;
+}
+.cid-sflFEPdimr .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-sflFEPdimr .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+  position: relative;
+  padding-left: 1rem;
+}
+.cid-sflFEPdimr .counter-container ul li:before {
+  position: absolute;
+  left: -40px;
+  content: '';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: #40b0bf;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 5px;
+  content: '✓';
 }
 .cid-sfiFdcR0sO {
   padding-top: 2rem;
