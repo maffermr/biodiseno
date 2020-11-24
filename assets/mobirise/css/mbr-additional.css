@@ -14347,113 +14347,6 @@ a {
 .cid-sgWGkWyuJJ .mbr-section-title {
   color: #353535;
 }
-.cid-shddahdEvT {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-shddahdEvT .socicon-bg-facebook {
-  background: #1778f2;
-  color: #ffffff;
-}
-.cid-shddahdEvT .socicon-bg-facebook:hover {
-  background: #0b60cb;
-}
-.cid-shddahdEvT .socicon-bg-twitter {
-  background: #1da1f2;
-  color: #ffffff;
-}
-.cid-shddahdEvT .socicon-bg-twitter:hover {
-  background: #0c85d0;
-}
-.cid-shddahdEvT .socicon-bg-vkontakte {
-  background: #4680C2;
-  color: #ffffff;
-}
-.cid-shddahdEvT .socicon-bg-vkontakte:hover {
-  background: #3567a0;
-}
-.cid-shddahdEvT .socicon-bg-odnoklassniki {
-  background: #ee8208;
-  color: #ffffff;
-}
-.cid-shddahdEvT .socicon-bg-odnoklassniki:hover {
-  background: #bd6706;
-}
-.cid-shddahdEvT .socicon-bg-pinterest {
-  background: #e60023;
-  color: #ffffff;
-}
-.cid-shddahdEvT .socicon-bg-pinterest:hover {
-  background: #b3001b;
-}
-.cid-shddahdEvT .socicon-bg-mail {
-  background: #005ff9;
-  color: #ffffff;
-}
-.cid-shddahdEvT .socicon-bg-mail:hover {
-  background: #004cc6;
-}
-.cid-shddahdEvT .btn-social {
-  font-size: 32px;
-  border-radius: 50%;
-  padding: 0;
-  width: 55px;
-  height: 55px;
-  line-height: 55px;
-  position: relative;
-  cursor: pointer;
-  transition: all 0.3s ease-in-out;
-  border: none !important;
-}
-.cid-shddahdEvT .btn-social i {
-  top: 0;
-  line-height: 55px;
-  width: 55px;
-}
-.cid-shddahdEvT [class^="socicon-"]:before,
-.cid-shddahdEvT [class*=" socicon-"]:before {
-  line-height: 55px;
-}
-.cid-shddahdEvT .mbr-section-title,
-.cid-shddahdEvT .mbr-social-likes {
-  color: #40b0bf;
-  text-align: center;
-}
-.cid-shddnsBGRp {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #d9f1f4;
-}
-.cid-shddnsBGRp .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-shddnsBGRp .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-shddnsBGRp .counter-container ol li {
-  list-style: none;
-  padding-left: 1rem;
-  position: relative;
-}
-.cid-shddnsBGRp .counter-container ol li:before {
-  position: absolute;
-  left: -40px;
-  margin-top: 5px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #40b0bf;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 .cid-shddaFYuwa {
   padding-top: 3rem;
   padding-bottom: 0rem;
@@ -14527,8 +14420,61 @@ a {
   color: #40b0bf;
   text-align: center;
 }
-.cid-shdgFdfRVw {
-  padding-top: 5rem;
+.cid-she9ZEBiSP {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
+}
+@media (max-width: 991px) {
+  .cid-she9ZEBiSP .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-she9ZEBiSP .row {
+  flex-direction: row-reverse;
+}
+.cid-she9ZEBiSP img {
+  width: 100%;
+}
+.cid-shdR3yLNYL {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-shdR3yLNYL .video-wrapper iframe {
+  width: 100%;
+}
+.cid-shdR3yLNYL .mbr-section-title,
+.cid-shdR3yLNYL .mbr-section-subtitle,
+.cid-shdR3yLNYL .mbr-text {
+  text-align: center;
+}
+.cid-shepe5pd7S {
+  padding-top: 2rem;
   padding-bottom: 5rem;
-  background-color: #d9f1f4;
+  background-color: #ffffff;
+}
+.cid-shepe5pd7S .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-shepe5pd7S .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+  position: relative;
+  padding-left: 1rem;
+}
+.cid-shepe5pd7S .counter-container ul li:before {
+  position: absolute;
+  left: -40px;
+  content: '';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: #40b0bf;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 5px;
+  content: '✓';
 }
