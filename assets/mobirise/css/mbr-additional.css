@@ -16303,6 +16303,22 @@ a {
   color: #40b0bf;
   text-align: center;
 }
+.cid-siGxD7pMPk {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-siGxD7pMPk .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-siGxD7pMPk .row {
+  flex-direction: row-reverse;
+}
+.cid-siGxD7pMPk img {
+  width: 100%;
+}
 .cid-siDQbC2RKY {
   padding-top: 1rem;
   padding-bottom: 1rem;
