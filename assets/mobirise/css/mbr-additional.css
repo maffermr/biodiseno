@@ -15936,6 +15936,40 @@ a {
 .cid-siASX9HxUb img {
   width: 100%;
 }
+.cid-sjhx8i7qhe {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sjhx8i7qhe .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sjhx8i7qhe .mbr-section-title,
+.cid-sjhx8i7qhe .mbr-section-subtitle,
+.cid-sjhx8i7qhe .mbr-text {
+  text-align: center;
+}
+.cid-sjhysd0UEx {
+  padding-top: 6rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.37.27-1886x1298.png");
+}
+@media (max-width: 991px) {
+  .cid-sjhysd0UEx .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sjhysd0UEx .row {
+  flex-direction: row-reverse;
+}
+.cid-sjhysd0UEx img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sjhysd0UEx .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-shZR4p0RaM {
   padding-top: 3rem;
   padding-bottom: 0rem;
